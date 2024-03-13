@@ -1,5 +1,5 @@
 @extends('auth.templates.main')
-@section('title', 'Entrar')
+@section('title', 'Cadastrar')
 @section('content-page')
 
     <div class="half">

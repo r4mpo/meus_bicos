@@ -17,6 +17,8 @@
     {{-- Título página --}}
     <title>Meus Bicos - @yield('title')</title>
 
+    {{-- Ícone --}}
+    <link rel="shortcut icon" href="/images/icons/cogwheel-145804_1280.png" type="image/x-icon">
 </head>
 
 <body>
